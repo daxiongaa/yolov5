@@ -1,0 +1,7 @@
+train: data/ImageSets/Main/train.txt
+val: data/ImageSets/Main/val.txt
+test: data/ImageSets/Main/test.txt
+nc: 6
+
+names: ['copper', 'mousebite', 'open', 'pin-hole', 'short', 'spur']
+
